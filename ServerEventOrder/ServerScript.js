@@ -1,0 +1,1 @@
+﻿//var person = new ds.Person(); // no on load at datastore class level, onGet calc fire twice//var person = new ds.Person({firstName: "Greg", lastName: "Wilson"}); //looks fine//var person = new ds.Person({firstName: "Greg", lastName: "Wilson"}).save();

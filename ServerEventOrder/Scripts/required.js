@@ -1,0 +1,1 @@
+events = require("events");emitter = new events.EventEmitter;emitter.addListener("myEvent", function myListener(argument){	debugger;	var myName = "Greg";});

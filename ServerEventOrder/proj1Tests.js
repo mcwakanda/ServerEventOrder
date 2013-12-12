@@ -1,0 +1,1 @@
+//var person = ds.Person.all()[0];//person.firstName = "Frankie";//person.save();//myLog;//var myPerson = new ds.Person();//debugger;var thePerson = new ds.Person();
